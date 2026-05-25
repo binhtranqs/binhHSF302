@@ -1,0 +1,6 @@
+hsf301/fe/aspects/LoggingAspect.class
+hsf301/fe/services/StudentServiceImpl.class
+hsf301/fe/services/StudentService.class
+hsf301/fe/configs/AppConfig.class
+hsf301/fe/pojos/Student.class
+hsf301/fe/gui/ManyToOne.class
